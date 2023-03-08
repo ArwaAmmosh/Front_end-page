@@ -1,0 +1,56 @@
+td{
+    
+    text-align: center;
+    font-size: 1cm;
+    color: rgb(112, 53, 92);
+
+}
+.o{
+    display: block;
+}
+
+
+td:hover{
+    background-color: rgb(250, 222, 243);
+    border-radius: 0 45%;
+}
+th{
+    text-align: left;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(250, 52, 194);
+    
+}
+
+h1:hover{
+text-decoration-line: underline;
+color: rgb(170, 33, 97);
+background-color:rgb(229, 149, 187) ;
+
+}
+pre{
+
+  text-align: left;
+  font-size: 20px;
+  font-weight: bolder;
+  width: 450px;
+  height:250px;
+  border: solid  ;
+  margin-left: 100px;
+  border-style: dashed  ;
+}
+pre:hover{
+    background-color:rgb(230, 169, 197) ;
+     color: rgb(146, 7, 70);
+     border:rgb(221, 164, 189);
+     border-style: double  ;
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+
+img:hover{
+    border-radius: 50%;
+
+}
